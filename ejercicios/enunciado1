@@ -1,0 +1,18 @@
+crear repo en git
+FABIAN SEGURONDO FERREL
+40796
+* Se tiene una Empresa de Cambio de Monedas
+que maneja en tipo de cambio de monedas
+
+- Boliviano / Dolar / Euro
+
+* existen diferentes lugares donde yo puedo cambiar mi moneda
+(Banco / Casas De Cambios / LibreCambistas)
+
+B -- 70bs --- 10$
+CC -- 70 bs --- 10$
+LC -- 70 bs --- 10$
+
+b -- 70bs -- 10$
+CC -- 10$ -- 70 bs
+LC --- 1euro -- 9 bs
