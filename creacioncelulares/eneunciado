@@ -1,0 +1,19 @@
+se tiene un distribuidor de celulates que tambien asigna
+lineas telefonicas, y este maneja modelos de celulares
+controlados, se quiere tebner un registro de celulares vendidos
+
+caracteristicss del celular (samsung r10)
+
+- tamano
+- cpu
+- memory
+- sim (nombreEmpresaTelefonica, numeroTelefono)
+- version android
+- camara
+- bluetooth
+- cantidaddememoriasexternas
+- tipoBateria
+- accesorios (audifonos, cargadores, otros)
+
+crear 3 celulares de tipo samsunr10
+
